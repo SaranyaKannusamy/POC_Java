@@ -3,6 +3,6 @@ security:
   oauth2:
     resource:
       userInfoUri: http://localhost:8080/validateUser
-#Changing Port from 9090 to 9080
+#Changing Port again from from 9080 to 9090 - Changes done via git
 server:
-  port: 9080
+  port: 9090
