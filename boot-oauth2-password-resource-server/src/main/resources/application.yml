@@ -1,6 +1,8 @@
+
 security:
   oauth2:
     resource:
       userInfoUri: http://localhost:8080/validateUser
+#Changing Port from 9090 to 9080
 server:
-  port: 9090
+  port: 9080
