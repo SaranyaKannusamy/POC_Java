@@ -5,4 +5,4 @@ security:
       userInfoUri: http://localhost:8080/validateUser
 #Changing Port again from from 9080 to 9090 - Changes done via git
 server:
-  port: 9090
+  port: 9080
